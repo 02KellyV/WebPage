@@ -1,6 +1,7 @@
 # Welcome to my info...
 
-Hi this is a starting of me... Lest's edit the **README files** of our github in: _[https://stackedit.io](https://stackedit.io)_
+Hi, this is a starting about me... 
+(Lest's edit the **README files** of our github in: _[https://stackedit.io](https://stackedit.io)_)
 
 ---
   
@@ -12,7 +13,7 @@ Hi this is a starting of me... Lest's edit the **README files** of our github in
           PHP, JS, RedisDB, Ruby on rails, Golang, WebRTC, HTML5, Boostrap, Metroui, AWS, Google Cloud n' SSH conections.
    
  - #### Technologies of Interest
-         Ionic2, JavaScript, Codeigniter, Ruby on rails, Golang, Node.js (EXPRESS), PostgreSQL, MongoDB
+         Learn more about: Ionic2, JavaScript, Codeigniter, Ruby on rails, Golang, Node.js (EXPRESS), PostgreSQL, MongoDB
 ---
 #### I represent the company OnnaSoft S.A.S.
 
