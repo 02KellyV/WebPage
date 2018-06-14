@@ -29,9 +29,9 @@ Hi, this is a starting about me...
 > ☛ Country: CO
    ☛ City: Barranquilla
    ☛ Timezone: A/Bogotá
-   E-Mail: [kellyssj02@gmail.com](mailto:kellyssj02@gmail.com)
-   Github: [https://github.com/kvilla2](https://github.com/kvilla2) 
-   Twitter: [http://twitter.com/02_KellyV](http://twitter.com/02_KellyV) 
+   E-Mail: [kellyssj02@gmail.com](mailto:kellyssj02@gmail.com);
+   Github: [https://github.com/kvilla2](https://github.com/kvilla2);
+   Twitter: [http://twitter.com/02_KellyV](http://twitter.com/02_KellyV); 
    Instagram: [https://www.instagram.com/villa.kelly](https://www.instagram.com/villa.kelly/)
 
 
