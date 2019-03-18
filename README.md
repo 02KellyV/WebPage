@@ -1,11 +1,15 @@
-# Welcome to my info...
+# Welcome to my shortbio...
 
-Hi, this is a starting about me... 
+Hi... 
 (Lest's edit the **README files** of our github in: _[https://stackedit.io](https://stackedit.io)_)
 
 ---
   
-### About me: [Kelly](http://kellyvilla.me/WebPage/)
+## About this project: 
+[HV GitHub Pages] NAVE FIN DE AÑO 👩‍🚀 In the technological era in which we live, having an online profile is necessary, we share our skills and knowledge to arouse the interest of companies...
+
+
+### About [Kelly](http://kellyvilla.me/)
  Web Development, S. Systems Engineer...
  
  -----
@@ -18,7 +22,7 @@ Hi, this is a starting about me...
 ---
 #### I'm speaker
 
-![](https://stackedit.io/app# "Listen to the translation") ***MEDIUM*** You can find a small timeline organized by themes with the slides. I leave the information on my Medium page: https://medium.com/@02_KellyV
+***MEDIUM*** You can find a small timeline organized by themes with the slides. I leave the information on my Medium page: https://medium.com/@02_KellyV
 
  - #### Interested in: security, IoT, coaching, mentoring, helpdesk, organizing, community women in STEM, #WomenSupportWomen
  ---
