@@ -6,9 +6,7 @@ Hi, this is a starting about me...
 ---
   
 ### About me: [Kelly](http://kellyvilla.me/WebPage/)
- Web Development, 
- S. Systems Engineer 
- Security technologies IoT...
+ Web Development, S. Systems Engineer...
  
  -----
   - #### Technologies of Expertise
