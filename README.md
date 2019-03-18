@@ -5,21 +5,24 @@ Hi, this is a starting about me...
 
 ---
   
-### About me: [kvilla2](https://kvilla2.github.io/WebPage)
- Web -development, Rubyists since 2015, Systems Engineer in a security technologies company: Support, Commercial dpto and recently IoT area...
+### About me: [Kelly](http://kellyvilla.me/WebPage/)
+ Web Development, 
+ S. Systems Engineer 
+ Security technologies IoT...
  
  -----
   - #### Technologies of Expertise
-          PHP, JS, RedisDB, Ruby on rails, Golang, WebRTC, HTML5, Boostrap, Metroui, AWS, Google Cloud n' SSH conections.
+          - Perimeter security, Network Security, IoT Security
+          - Web Developer: ReactJS, NodeJS, Angular, HTML5, CSS3, AWS, Google Cloud, PostgreSQL...
    
  - #### Technologies of Interest
-         Learn more about: Ionic2, JavaScript, Codeigniter, Ruby on rails, Golang, Node.js (EXPRESS), PostgreSQL, MongoDB
+          - Learn more about: JavaScript
 ---
-#### I represent the company OnnaSoft S.A.S.
+#### I'm speaker
 
-![](https://stackedit.io/app# "Listen to the translation") ***OnnaSoft*** is a software solutions company, handles a design dev team, and web / mobile applications to give your company the opportunity to give a simpler, more friendly and elegant digital image.
+![](https://stackedit.io/app# "Listen to the translation") ***MEDIUM*** You can find a small timeline organized by themes with the slides. I leave the information on my Medium page: https://medium.com/@02_KellyV
 
- - #### Interested in: pair, coaches, project, coaching, mentoring, helpdesk, organizing, coachingcompany
+ - #### Interested in: security, IoT, coaching, mentoring, helpdesk, organizing, community women in STEM, #WomenSupportWomen
  ---
 #### Private info: 
  - **Gender:** F
@@ -30,8 +33,8 @@ Hi, this is a starting about me...
    ☛ City: Barranquilla
    ☛ Timezone: A/Bogotá
    🌐 E-Mail: [kellyssj02@gmail.com](mailto:kellyssj02@gmail.com);
-   Github: [https://github.com/kvilla2](https://github.com/kvilla2);
+   Github: [https://github.com/02KellyV](https://github.com/02KellyV);
    Twitter: [http://twitter.com/02_KellyV](http://twitter.com/02_KellyV); 
-   Instagram: [https://www.instagram.com/villa.kelly](https://www.instagram.com/villa.kelly/)
+   Instagram: [https://www.instagram.com/02_KellyV](https://www.instagram.com/02_KellyV/)
 
 
